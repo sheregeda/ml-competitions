@@ -1,0 +1,8 @@
+notebook==6.1.5
+pyarrow==2.0.0
+matplotlib==3.3.3
+catboost==0.24.3
+ipywidgets==7.5.1
+pandas==1.1.5
+seaborn==0.11.0
+
